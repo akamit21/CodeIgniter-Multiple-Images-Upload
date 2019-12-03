@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * Class Gallery_mdl
  */
 
-class Gallery_mdl extends Base_Model
+class Gallery_mdl extends CI_Model
 {
 	function __construct()
 	{
